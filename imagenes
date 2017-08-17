@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <title>Jabiru mycteria</title>
+	  <link rel="stylesheet" href="estilo.css">
+   </head>
+   <h1 style="color:blue;background-color:yellow;font-family:'Arial';type = "I">
+    LISTA DE IMAGENES DE LA AVE JABIRU MYCTERIA</h1>
+   <img src= "ave2.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave3.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave4.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave5.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave6.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave7.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave8.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave9.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave10.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave11.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave13.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave14.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "ave15.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "CR1.jpg" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+   <img src= "SUD01.PNG" alt="Es la mayor cigueña del mundo" height="150" width="150"/>
+<body>
+<nav>
+<a href="index.html">index</a> |
+<a href="imagenes.html">imagenes</a> |
+<a href="distribucion.html">distribucion</a> |
+</nav> 
+</body> 
+   <p>sitio web: <a href=" https://demo.gbif.org/occurrence/gallery?q=jabiru%20m&country=CR&has_coordinate=true&has_geospatial_issue=false&taxon_key=2481953">Enlace aL sitio GBIF y iNaturalist  </a>
+   
+    
+</html>	
