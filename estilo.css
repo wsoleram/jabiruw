@@ -16,3 +16,13 @@ body {
     border:12px solid;
 	<font color="blue">
 }
+img {
+    display: block;
+    margin: auto;
+    width: 15%;
+}
+iframe {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
